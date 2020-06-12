@@ -1,0 +1,8 @@
+<suite thread-count="1" verbose="1" name="Maker Checker Web Automation">
+
+    <test name="Maker Checker Web Automation">
+        <classes>
+            <class name="TestCase.TestLoginPage"/>
+        </classes>
+    </test>
+</suite>

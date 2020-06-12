@@ -1,0 +1,1 @@
+{"uuid":"c45656f9-ee1b-4d5e-a091-8ffe23f0e561","name":"SureCashWeb","start":1572117004012,"stop":1572117064926,"children":["f6a9f53f-41a4-4099-a9d0-c7862428760a"],"afters":[{"name":"Logout","status":"passed","stage":"finished","description":"","start":1572117063607,"stop":1572117064926}]}

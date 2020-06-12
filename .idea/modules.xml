@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SureCashWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/SureCashWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SureCashWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SureCashWeb_main.iml" group="SureCashWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SureCashWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SureCashWeb_test.iml" group="SureCashWeb" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e645ff8a-d281-419d-ba25-c53f7e6edbee" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/0a0ebb25-ec57-4295-a23b-fec594b07646-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/0a147183-c81a-4fb6-a620-1efbccbc60be-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/27e01a3b-669e-4849-bd35-c0397f0446ac-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/2cb88b53-200b-41f2-b7c8-8a034d4dbcd6-attachment" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/580c8486-a50c-4f48-bf92-006460517b85-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/635a2aae-8a65-4642-9399-f611bbcf2b94-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/aba4ece5-efe2-4e29-8de9-ad20bb22f081-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/allure-results/aed3914a-3013-4e53-bb7f-5c3e871405a4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Pages/WalletStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/Pages/WalletStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Utility/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/Utility/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/WalletStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/WalletStatement.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="test1" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="test1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="test1" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>true</find>
+      <find>humanface</find>
+      <find>human</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>true</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1378" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1bGKmIYtiHa7fEQflHPVwCB8Isf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api-integration-tests-practice" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java_Automation\sc-SureCashWeb-automation-testng-pom" />
+      <recent name="D:\Java_Automation\sc-SureCashWeb-automation-testng-pom\src\test\resources" />
+      <recent name="E:\Java Projects SQA\sc-web-automation-testng-pom\src\test\java\TestCase" />
+      <recent name="E:\Java Projects SQA\sc-web-automation-testng-pom\src\test\java\helper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Util">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Utility.Util" />
+      <module name="SureCashWeb_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="test1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bank_Login" type="TestNG">
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginPage.CashOutApproveByChecker" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SureCashWeb_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.TestLoginPage" />
+      <option name="METHOD_NAME" value="CashOutApproveByChecker" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginPage.CashOutRequestByMaker" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SureCashWeb_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.TestLoginPage" />
+      <option name="METHOD_NAME" value="CashOutRequestByMaker" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginPage.CashOutRequestByOTP" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SureCashWeb_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.TestLoginPage" />
+      <option name="METHOD_NAME" value="CashOutRequestByOTP" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestLoginPage.ViewSRStatement" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test1_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCase" />
+      <option name="MAIN_CLASS_NAME" value="TestCase.TestLoginPage" />
+      <option name="METHOD_NAME" value="ViewSRStatement" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Util" />
+      <item itemvalue="TestNG.Bank_Login" />
+      <item itemvalue="TestNG.TestLoginPage.ViewSRStatement" />
+      <item itemvalue="TestNG.TestLoginPage.CashOutRequestByMaker" />
+      <item itemvalue="TestNG.TestLoginPage.CashOutApproveByChecker" />
+      <item itemvalue="TestNG.TestLoginPage.CashOutRequestByOTP" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Util" />
+        <item itemvalue="TestNG.TestLoginPage.CashOutRequestByMaker" />
+        <item itemvalue="TestNG.TestLoginPage.CashOutRequestByOTP" />
+        <item itemvalue="TestNG.TestLoginPage.CashOutApproveByChecker" />
+        <item itemvalue="TestNG.TestLoginPage.ViewSRStatement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e645ff8a-d281-419d-ba25-c53f7e6edbee" name="Default" comment="" />
+      <created>1554831623314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554831623314</updated>
+      <workItem from="1554831628111" duration="13525000" />
+      <workItem from="1554897780568" duration="1043000" />
+      <workItem from="1554916136872" duration="6177000" />
+      <workItem from="1555129990642" duration="7576000" />
+      <workItem from="1555385912017" duration="4453000" />
+      <workItem from="1555643008230" duration="824000" />
+      <workItem from="1555690357455" duration="15163000" />
+      <workItem from="1562047437870" duration="66000" />
+      <workItem from="1566726162076" duration="5047000" />
+      <workItem from="1566804747074" duration="1508000" />
+      <workItem from="1567221577805" duration="705000" />
+      <workItem from="1567223360797" duration="12479000" />
+      <workItem from="1567308399329" duration="1217000" />
+      <workItem from="1567590540640" duration="609000" />
+      <workItem from="1567750791818" duration="89000" />
+      <workItem from="1568042021230" duration="5684000" />
+      <workItem from="1568052897928" duration="11689000" />
+      <workItem from="1568086200849" duration="27714000" />
+      <workItem from="1568176036828" duration="10256000" />
+      <workItem from="1568208749615" duration="5495000" />
+      <workItem from="1568217936770" duration="766000" />
+      <workItem from="1568220476091" duration="1619000" />
+      <workItem from="1568223994115" duration="1729000" />
+      <workItem from="1568260263631" duration="6717000" />
+      <workItem from="1568298119095" duration="3211000" />
+      <workItem from="1571834380239" duration="3205000" />
+      <workItem from="1571931952732" duration="6561000" />
+      <workItem from="1572102370554" duration="9383000" />
+      <workItem from="1572178024599" duration="694000" />
+      <workItem from="1572194781392" duration="776000" />
+      <workItem from="1572418765626" duration="629000" />
+      <workItem from="1572522539264" duration="1055000" />
+      <workItem from="1572536425669" duration="2070000" />
+      <workItem from="1572707722301" duration="2678000" />
+      <workItem from="1572780140272" duration="666000" />
+      <workItem from="1572852867256" duration="858000" />
+      <workItem from="1588253154411" duration="24000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestLoginPage_CashOutRequestByMaker - 2019.10.31 at 23h 48m 13s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByMaker" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByMaker - 2019.10.31 at 23h 49m 20s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByMaker" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByOTP - 2019.10.27 at 01h 19m 32s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByOTP" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByOTP - 2019.10.27 at 01h 22m 51s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByOTP" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByOTP - 2019.10.27 at 01h 31m 39s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByOTP" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByOTP - 2019.10.31 at 23h 44m 04s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByOTP" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByOTP - 2019.10.31 at 23h 44m 12s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByOTP" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByOTP - 2019.10.31 at 23h 44m 13s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByOTP" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByOTP - 2019.10.31 at 23h 46m 36s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByOTP" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestLoginPage_CashOutRequestByOTP - 2019.10.31 at 23h 46m 41s.xml">
+      <configuration name="TestLoginPage.CashOutRequestByOTP" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1588253176101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588253176101" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Pages/BankCashOut.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>groovy-2.5.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test1_test|test1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
